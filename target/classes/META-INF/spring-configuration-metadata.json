@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zzw.config.MyConfigProps",
+      "name": "example.service",
+      "type": "com.zzw.config.MyConfigProps"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zzw.config.MyConfigProps",
+      "name": "example.service.config",
+      "type": "java.lang.String"
+    }
+  ]
+}

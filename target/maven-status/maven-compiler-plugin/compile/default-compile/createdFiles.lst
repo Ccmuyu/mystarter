@@ -1,0 +1,4 @@
+com\zzw\config\MyConfigProps.class
+com\zzw\config\MyConfigAutoConfigure.class
+com\zzw\service\MyService.class
+META-INF\spring-configuration-metadata.json
